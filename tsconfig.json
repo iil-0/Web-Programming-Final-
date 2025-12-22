@@ -1,0 +1,16 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "types": ["@types/node", "@nuxt/schema"]
+  },
+  "include": [
+    "types/**/*.d.ts",
+    "app/**/*",
+    "stores/**/*",
+    "pages/**/*",
+    "components/**/*",
+    "app/**/*.vue",
+    "**/*.ts",
+    "**/*.vue"
+  ]
+}
