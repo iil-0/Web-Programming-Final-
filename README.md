@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="app/assets/images/logo.png" alt="BiletixProjem" width="240" />
-</p>
-
 <h1 align="center">BiletixProjem</h1>
 
 <p align="center">
